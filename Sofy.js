@@ -1,6 +1,6 @@
 {
   "META": {
-    "repoName": "Scarlet Repo",
+    "repoName": "Sofy Repo",
     "repoIcon": "https://usescarlet.com/favicon.png"
   },
   "Games": [
@@ -176,7 +176,7 @@
   ],
   "Other": [
     {
-      "name": "Scarlet",
+      "name": "Sofy",
       "version": "1.0",
       "icon": "https://usescarlet.com/icon.png",
       "down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
